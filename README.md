@@ -150,3 +150,5 @@ So as any Java project might this one utilizes a few dependencies and as listed 
 ## Contributing
 Currently, I welcome any developer to join the few of us at our community discord for more direct conversation, but
 opening issues is absolutely fine if they use the templates provided (or are reasonably made).
+
+# @wigglyDon personal fork :)
