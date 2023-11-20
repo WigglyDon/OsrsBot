@@ -130,7 +130,7 @@
       <recent name="C:\Users\gigia\IdeaProjects\RSB\src\main\java\rsb\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.OsrsBot [botRun]">
+  <component name="RunManager">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -166,6 +166,17 @@
       <setting name="fixLineNumbers" value="false" />
       <setting name="focusEditor" value="false" />
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.headlessBotRun" />
